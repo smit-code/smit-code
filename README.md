@@ -26,6 +26,6 @@
 <p>&nbsp;<img align="center" style="margin-top:20px" src="https://github-readme-stats.vercel.app/api?username=smit-code&show_icons=true&locale=en" alt="smit-code" /></p>
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smit-code&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
