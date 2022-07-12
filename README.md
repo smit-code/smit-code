@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smit Gajera</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p><img align="right"  width="550px" style="margin-top:20px" src="image/hero.gif" alt="smit-code" /></p>
+<p><img align="right"  width="500px" style="margin-top:20px" src="image/hero.gif" alt="smit-code" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit-code&label=Profile%20views&color=0e75b6&style=flat" alt="smit-code" /> </p>
 
