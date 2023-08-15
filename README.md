@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smit Gajera</h1>
-<h3 align="center">An enthusiastic Indian backend developer || JavaScript</h3>
+<h3 align="center">An enthusiastic Indian developer || JavaScript || TypeScript </h3>
 
 <p><img align="right"  width="505px" style="margin-top:20px" src="image/hero.gif" alt="smit-code" /></p>
 
