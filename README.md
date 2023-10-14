@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit-code&label=Profile%20views&color=0e75b6&style=flat" alt="smit-code" /> </p>
 
-- 🔭 I’m currently working on [API Projects](https://github.com/smit-code/fastest-rest-countries-states-cities)
+- 🔭 I’m currently working on AI Projects
 
 - 💬 Ask me about **node.js, expressjs,**
 
